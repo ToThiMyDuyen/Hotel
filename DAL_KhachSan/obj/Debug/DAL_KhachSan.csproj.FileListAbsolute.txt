@@ -1,0 +1,322 @@
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Pictures\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+C:\Users\TEMP.LAPTOP-KCKFF5PU\Downloads\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San (3)\Quan Ly Khach San (1)\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\EnvDTE.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\stdole.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+C:\Users\asus\OneDrive\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\EnvDTE.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\stdole.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.MSXML.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+D:\Quan Ly Khach San1\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\EnvDTE.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\stdole.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Downloads\Quan Ly Khach San\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DAL_KhachSan.pdb
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\EnvDTE.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\stdole.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\DTO_KhachSan.pdb
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.csproj.CopyComplete
+D:\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.dll
+D:\QuanLyKhachSan\DAL_KhachSan\obj\Debug\DAL_KhachSan.pdb
