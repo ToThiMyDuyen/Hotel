@@ -1,3 +1,4 @@
+- Three-layer architecture
 - The system provides hotel staff with a login account to manage and process room bookings and check-ins/outs for customers.
 - The system includes the following functions:
   + Employee Management: Add, edit, delete, and search employees by name and employee ID.
